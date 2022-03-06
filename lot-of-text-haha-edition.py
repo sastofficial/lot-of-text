@@ -1,0 +1,5 @@
+# lot of text haha edition 1.0 by SA ST
+h = "haha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\nhaha\n"
+h2 = 0
+while(h2 < 1):
+    print(h)
